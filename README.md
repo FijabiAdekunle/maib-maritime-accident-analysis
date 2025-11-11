@@ -1,5 +1,5 @@
 # MAIB Maritime Accident Analysis (2010–2024)
-[![Collision-Sea.png](https://i.postimg.cc/Px0tXvdd/Collision-Sea.png)](https://postimg.cc/k6Frw4VH)
+[![Collision-Sea.png](https://i.postimg.cc/VvP3ZqYM/Collision-Sea.png)](https://postimg.cc/349SdD0J)
 
 Interactive dashboard analyzing UK Marine Accident Investigation Branch (MAIB) data. Tracks incidents, fatalities, vessel types, and weather patterns.
 
