@@ -1,0 +1,19 @@
+Field,Column,Missing_%
+occurrence_id,occurrence_id,0.0
+date,local_date_main_event_occ,0.0
+location,occurrence_location,0.0
+vessel_type,ship_craft_type_l1,64.6
+flag,flag_state,64.8
+gross_tonnage,gt_gross_tonnage,64.6
+length_overall,loa_length_overall_in_metres,64.6
+incident_type,port_of_accident_l1_occ,62.0
+injury_level,injury_type_l1,"injury_type_l1    65.1
+injury_type_l1    65.1
+dtype: float64"
+fatalities,deaths_crew,0.0
+injuries,injury_type_l1,"injury_type_l1    65.1
+injury_type_l1    65.1
+dtype: float64"
+narrative,short_description_occ,0.0
+weather,weather,0.0
+damage,loss_of_vessel_damage,64.6
