@@ -18,7 +18,7 @@ Interactive dashboard analyzing UK Marine Accident Investigation Branch (MAIB) d
 - Data: MAIB CSVs (processed in `pipeline.ipynb`)
 
 ## 📈 Dashboards
-- [Streamlit Live Demo](https://your-streamlit-url.streamlit.app) (coming soon)
+- [Streamlit Live Demo](https://maib-maritime-accident-analysis-gncw53nsays9cceaoonahs.streamlit.app/)
 - Tableau/PowerBI versions in development
 
 ## 📝 License
