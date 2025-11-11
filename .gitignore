@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.ipynb_checkpoints
+
+# Data (add if CSVs are sensitive/large)
+*.csv
+processed/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
