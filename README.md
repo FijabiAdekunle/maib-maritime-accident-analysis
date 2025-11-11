@@ -26,4 +26,4 @@ MIT License – Free to use/fork.
 
 Built by Fijabi J. Adekunle | November 2025 | Nigeria 🇳🇬
 
-> NAVIGATING DATA| UNVEILING INSIGHTS| DRIVING IMPACTS 
+> NAVIGATING DATA | UNVEILING INSIGHTS | DRIVING IMPACTS 
